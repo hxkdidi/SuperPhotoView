@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="19.1.0"><source path="D:\dyw\photoView_library\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\assets"/></dataSet><dataSet config="debug"><source path="D:\dyw\photoView_library\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\dyw\photoView_library\src\androidTest\assets"/><source path="D:\dyw\photoView_library\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>
