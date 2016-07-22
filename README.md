@@ -1,7 +1,9 @@
 # SuperPhotoView
 解决photoView的crash的bug
 ，方案如下：
+
 public class PhotoViewPager extends ViewPager {
+
   public PhotoViewPager(Context context) {
         super(context);
     }
